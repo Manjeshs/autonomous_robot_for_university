@@ -1,4 +1,3 @@
-# autonomous_robot_for_university
 # code_for_robot_forward-backwards-right-left. 
 
 import serial
