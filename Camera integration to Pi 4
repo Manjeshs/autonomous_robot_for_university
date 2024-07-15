@@ -1,0 +1,10 @@
+# Camera integration to Pi 4
+
+To connect the MI camera to the Raspberry Pi 4 while setting up a camera streaming service using Motion,
+
+$sudo apt-get install motion // to install the Motion software:
+$Sudo nano /etc/motion/motion.conf // to access the Motion configuration file
+$sudo service motion restart // After specifying the motion parameters, restart the Motion $service using the following command
+$sudo motion // Launch Camera Service
+http://<Raspberry_Pi_IP_Address>:<Port_Number>// Access Camera Feed
+
