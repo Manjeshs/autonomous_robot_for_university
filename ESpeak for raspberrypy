@@ -1,0 +1,20 @@
+ESpeak for raspberrypy 
+
+To install and configure espeak for text-to-speech functionality on Raspberry Pi
+
+sudo apt //get install espeak - to install espeak
+configure the pi for audio - put it to audio jack
+to increase or reduce the volume use - alsamixer
+to change the the voice u can use use -vafm3 for male and -vaff4
+to use espeak just type - espeak " welcome to dsu"
+if you want to read the file type - espeak -f a.text
+Use sudo apt-get install espeak to get it installed.
+Put the Pi on the audio jack after setting it up for audio.
+To raise or lower the sound used - Alsamixer
+In order to communicate using Espeak, simply enter espeak "welcome to DSU."
+To speak the file type, type espeak -f a.text.
+
+
+“sudo apt-get install espeak”
+“alsamixer”
+espeak “welcome to Dayananda sagar University”
